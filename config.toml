@@ -1,0 +1,4 @@
+baseURL = "http://www.example.org/"
+languageCode = "en-us"
+title = "Eat Run Dive"
+theme = "hugo_theme_beg"
