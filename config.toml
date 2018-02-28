@@ -1,4 +1,6 @@
-baseURL = "http://www.example.org/"
+baseURL = "sougat818.github.io/EatRunDive"
 languageCode = "en-us"
 title = "Eat Run Dive"
 theme = "hugo_theme_beg"
+publishDir = "docs"
+
