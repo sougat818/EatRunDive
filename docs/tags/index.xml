@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Eat Run Dive</title>
+    <link>sougat818.github.io/EatRunDive/tags/</link>
+    <description>Recent content in Tags on Eat Run Dive</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2018 12:00:00 +0700</lastBuildDate>
+    
+	<atom:link href="sougat818.github.io/EatRunDive/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Phuket</title>
+      <link>sougat818.github.io/EatRunDive/tags/phuket/</link>
+      <pubDate>Tue, 20 Feb 2018 12:00:00 +0700</pubDate>
+      
+      <guid>sougat818.github.io/EatRunDive/tags/phuket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similan</title>
+      <link>sougat818.github.io/EatRunDive/tags/similan/</link>
+      <pubDate>Tue, 20 Feb 2018 12:00:00 +0700</pubDate>
+      
+      <guid>sougat818.github.io/EatRunDive/tags/similan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snorkeling</title>
+      <link>sougat818.github.io/EatRunDive/tags/snorkeling/</link>
+      <pubDate>Tue, 20 Feb 2018 12:00:00 +0700</pubDate>
+      
+      <guid>sougat818.github.io/EatRunDive/tags/snorkeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thailand</title>
+      <link>sougat818.github.io/EatRunDive/tags/thailand/</link>
+      <pubDate>Tue, 20 Feb 2018 12:00:00 +0700</pubDate>
+      
+      <guid>sougat818.github.io/EatRunDive/tags/thailand/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
