@@ -1,4 +1,4 @@
-baseURL = "sougat818.github.io/EatRunDive"
+baseURL = "https://sougat818.github.io/EatRunDive/"
 languageCode = "en-us"
 title = "Eat Run Dive"
 theme = "hugo_theme_beg"
