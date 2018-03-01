@@ -2,9 +2,9 @@
 title: "Snorkeling in Similan Islands"
 date: 2018-02-20T12:00:00+07:00
 tags: [snorkeling, phuket, thailand, similan]
+thumbnail: "http://img.youtube.com/vi/tVgjhhQRf88/0.jpg"
 ---
 {{< youtube tVgjhhQRf88 >}}
-{{< figure src="http://img.youtube.com/vi/tVgjhhQRf88/0.jpg" >}}
 
 The last tour I booked in Phuket was to the Similan Islands. I was told that it is extremely beautiful but didn’t really believe it. The pick up was at 6 am. After a two hour drive, we were at the Wow Andaman Pier in Lam Kaen. We were divided into different groups, identified by colour wristbands. Our guide introduced herself to us and she spoke really good English. We had a pretty elaborate breakfast spread there. No prizes for guessing who went for second servings. The snorkelling gear was of good quality. However, if you own snorkelling gear like I do, please get them.
 
